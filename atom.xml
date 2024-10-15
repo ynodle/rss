@@ -15,6 +15,11 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+
+  <follow_challenge>
+    <feedId>68852686157780992</feedId>
+    <userId>68551056027509760</userId>
+  </follow_challenge>
   
   <entry>
     <title>Hello World</title>
